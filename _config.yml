@@ -14,12 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: SMH.Lab # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: SMH's Spatial Information Lab Blog  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  GIS, Spatial, 2D, 3D, 4D, 지하시설물, DB, DataBase, Excel, info, informatino, How, Geo, technology, Service, Digital Twin, modelling, CAD, QGIS, Arc, Auto, MMS, GPS, GNSS, NAV, Build, Metaverse, AR, VR, Underground, facilities, 공간정보, 측량, servey, 탐사, 조사, Exploration, inspection, Road, View, viewer, 메타버스, 디지털트윈, GIS DB, 정밀도로지도, MAP, HD map, HD-MAP, dron, lidar, satellite, korea, japen, USA
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-1/325398694_1231429860918772_6370576682180613454_n.jpg?stp=dst-jpg_p200x200&_nc_cat=108&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=qg797k23lh8Q7kNvgHPiKgT&_nc_ht=scontent-ssn1-1.xx&oh=00_AYACiBhwvxyG53SCUPlvfqCAViiRH4RZkYTFyhUOlqoRsQ&oe=66B23E07
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
