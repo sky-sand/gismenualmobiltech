@@ -1,10 +1,8 @@
 ---
-title: "Hello world"
-date: 2024-08-02 00:00:00 +0800
-categories: [Hello World]
-tags: [Hello world]
+title: "MMS_Viewer1.0"
+date: 2024-07-22 00:00:00 +0800
+categories: [Menual]
+tags: [MMS_Viewer]
 ---
 
-# Hello world
-
-Hello world this my personal blog.
+MMS_Viewer Menual 작성하기
